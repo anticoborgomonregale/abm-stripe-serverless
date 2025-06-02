@@ -1,0 +1,9 @@
+{
+  "name": "abm-stripe-serverless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "stripe": "^12.10.0"
+  }
+}
